@@ -5,7 +5,7 @@
  *   - Web  (-web.pdf) — optimized for screen and client delivery
  *   - Print (-print.pdf) — high-res, suitable for print and mockup placements
  *
- * Both files are saved into a "30 Export" subfolder next to the source document
+ * Both files are saved into a "PDFs" subfolder next to the source document
  * (JD Template D layout structure), created automatically if it doesn't exist.
  *
  * Requires two PDF export presets defined in InDesign named "web" and "print".
